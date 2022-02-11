@@ -22,7 +22,7 @@
   </p>
 </div>
 
-### This project has been moved to ptrivate repo intrested one drop a mail:  Eswar - [@ioeshu](https://twitter.com/ioeshu) - a.eswar954@gmail.com
+
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -189,7 +189,9 @@ Project Link: [https://github.com/ioeshu/veuzion](https://github.com/ioeshu/veuz
 
 
 
+##Note
 
+### This project has been moved to ptrivate repo interested one drop a mail:  Eswar - [@ioeshu](https://twitter.com/ioeshu) - a.eswar954@gmail.com
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
